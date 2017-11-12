@@ -1,4 +1,4 @@
-package de.dreierschach.hello.kotlin
+package com.mtag.cwahlmann.hello.kotlin
 
 fun main(args: Array<String>) {
 	var x = 1;

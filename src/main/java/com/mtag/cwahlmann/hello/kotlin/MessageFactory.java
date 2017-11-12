@@ -1,4 +1,4 @@
-package de.dreierschach.hello.kotlin;
+package com.mtag.cwahlmann.hello.kotlin;
 
 public class MessageFactory {
 	public static String msg() {
